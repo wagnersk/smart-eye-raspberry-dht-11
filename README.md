@@ -32,9 +32,9 @@
 
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Executar esse projeto no seu computador raspberry Pi 3](#-executar-esse-projeto-no-seu-computador-raspberry-pi-3)
-- [Criar uma conta no site do NGROK](#-criar-uma-conta-no-site-do-ngrok)
-- [Comandos para configurações automáticas](#-configurações-automáticas)
-- [Sequência de execução do scripts](#-sequencia-de-execucao-do-scripts)
+- [Criar uma conta no site do ngrok](#-criar-uma-conta-no-site-do-ngrok)
+- [Configurações automáticas](#-configurações-automáticas)
+- [Sequência de execução dos scripts](#-sequencia-de-execução-dos-scripts)
 - [Referencias](#-referencias)
 - [Autor](#-autor)
 
@@ -63,7 +63,7 @@
 
 <br>
 
-## Criar uma conta no site do ngrok
+##  Criar uma conta no site do ngrok
 
 1. [Clique Aqui](https://ngrok.com/)
 
@@ -75,7 +75,7 @@
 
 <br><br>
 
-## configurações automáticas
+##  Configurações automáticas
 
 `mkdir $HOME/www/`
 
@@ -93,7 +93,7 @@
 
 <br>
 
-## Sequência de execução do scripts
+##  Sequência de execução dos scripts
 
 **1-`ligarmoden`** 
 
@@ -113,7 +113,7 @@ OBS: O script **`hello.py`** precisa ser o ultimo a rodar pois ele vai enviar o 
 `sudo usb_modeswitch -c /etc/usb_modeswitch.conf `
 <br><br>
 
-## Referencias
+##  Referências
 
 [https://www.thefanclub.co.za/how-to/how-setup-usb-3g-modem-raspberry-pi-using-usbmodeswitch-and-wvdial](https://www.thefanclub.co.za/how-to/how-setup-usb-3g-modem-raspberry-pi-using-usbmodeswitch-and-wvdial)
 
