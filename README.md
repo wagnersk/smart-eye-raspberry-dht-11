@@ -10,7 +10,8 @@
 - Modem Dwm 221  
 - Sistema operacional:  Raspberry Pi OS (32-bit) with desktop and recommended software  
   
-<img src="/flask-raspberry-sensor-archives-example/image/dht11circuit.png">
+  
+<img src="/image/dht11circuit.png">
 
 
                                              fonte: www.circuitbasics.com
