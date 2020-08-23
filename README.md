@@ -63,7 +63,7 @@
 
 <br>
 
-##  Criar uma conta no site do ngrok
+## 📕 Criar uma conta no site do ngrok
 
 1. [Clique Aqui](https://ngrok.com/)
 
@@ -93,7 +93,7 @@
 
 <br>
 
-##  📕Sequência de execução dos scripts
+## 📕 Sequência de execução dos scripts
 
 **1-`ligarmoden`** 
 
@@ -113,7 +113,7 @@ OBS: O script **`hello.py`** precisa ser o ultimo a rodar pois ele vai enviar o 
 `sudo usb_modeswitch -c /etc/usb_modeswitch.conf `
 <br><br>
 
-##  📕Referências
+## 📕 Referências
 
 [https://www.thefanclub.co.za/how-to/how-setup-usb-3g-modem-raspberry-pi-using-usbmodeswitch-and-wvdial](https://www.thefanclub.co.za/how-to/how-setup-usb-3g-modem-raspberry-pi-using-usbmodeswitch-and-wvdial)
 
@@ -125,6 +125,6 @@ Curso raspberry Pi:
 
 <br>
 
-##  📕 Autor
+## 📕 Autor
 
 [Wagner Sobreira](https://www.linkedin.com/in/wagner-sobreira-395b66167/)
