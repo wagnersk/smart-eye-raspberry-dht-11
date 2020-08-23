@@ -15,6 +15,8 @@
 
 
                                              fonte: www.circuitbasics.com
+                                             
+<br><br>
                                   
 
 *No final do README tem um *link de um curso sobre raspberry básico**
@@ -22,7 +24,8 @@
 
 
 
-# Configurações iniciais
+## 📥 Executar esse projeto no seu computador raspberry Pi 3
+
 
 `sudo apt-get update `
 
