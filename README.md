@@ -57,7 +57,7 @@
 
 
 
-## Copiar os scripts para o Desktop e serão executados na ordem
+## Sequelncia de execução do scripts
 
 **1-`ligarmoden`** 
 
@@ -67,7 +67,7 @@
 
 **4-`hello.py`**
 
-*Cada Script tem comentários explicando o que você deverá alterar para adaptar a sua realidade*
+*O Script hello.py tem comentários explicando o que você deverá alterar para adaptar a sua realidade*
 
 OBS: O script **`hello.py`** precisa ser o ultimo a rodar pois ele vai enviar o endereço que o ngrok criou para o servidor no mongo db 
 
