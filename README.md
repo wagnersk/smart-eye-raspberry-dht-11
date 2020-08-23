@@ -19,12 +19,22 @@
 
                                              fonte: www.circuitbasics.com
                                              
-<br><br>
+<br>
                                   
 
 *No final do README tem um *link de um curso sobre raspberry básico**
 
+<br>
 
+
+## 🚀 Tecnologias utilizadas
+
+- Python
+- Flask
+- Ngrok
+
+
+<br><br>
 
 
 ## 📥 Executar esse projeto no seu computador raspberry Pi 3
