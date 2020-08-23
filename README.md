@@ -57,7 +57,7 @@
 
 
 
-## Sequelncia de execução do scripts
+## Sequência de execução do scripts
 
 **1-`ligarmoden`** 
 
