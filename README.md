@@ -32,8 +32,8 @@
 
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Executar esse projeto no seu computador raspberry Pi 3](#-executar-esse-projeto-no-seu-computador-raspberry-pi-3)
-- [Criar uma conta no site do NGROK](#-criar-uma-conta-no-site-do-[NGROK])
-- [Comandos para configurações automáticas](#-comandos-para-configurações-automáticas)
+- [Criar uma conta no site do NGROK](#-criar-uma-conta-no-site-do-ngrok)
+- [Comandos para configurações automáticas](#-configurações-automáticas)
 - [Sequência de execução do scripts](#-sequencia-de-execucao-do-scripts)
 - [Referências](#-referências)
 - [Autor](#-autor)
@@ -63,11 +63,13 @@
 
 <br>
 
-## Criar uma conta no site do [NGROK](https://ngrok.com/)
+## Criar uma conta no site do ngrok
 
-1. *Baixar o ngrok para o seu raspberry*
+1. [Clique Aqui](https://ngrok.com/)
 
-2. `sudo ./ngrok authtoken 1231eddasfdgwwhrwef`
+2. *Baixe o ngrok para o seu raspberry*
+
+3. `sudo ./ngrok authtoken 1231eddasfdgwwhrwef`
 
 > O `1231eddasfdgwwhrwef` é um exemplo de um token pessoal que será gerado em sua conta pelo site , dessa forma o dns gerado não terá um tempo de expiração*
 
@@ -111,7 +113,7 @@ OBS: O script **`hello.py`** precisa ser o ultimo a rodar pois ele vai enviar o 
 `sudo usb_modeswitch -c /etc/usb_modeswitch.conf `
 <br><br>
 
-## Referências :
+## Referências
 
 [https://www.thefanclub.co.za/how-to/how-setup-usb-3g-modem-raspberry-pi-using-usbmodeswitch-and-wvdial](https://www.thefanclub.co.za/how-to/how-setup-usb-3g-modem-raspberry-pi-using-usbmodeswitch-and-wvdial)
 
