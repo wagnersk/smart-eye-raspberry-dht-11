@@ -35,7 +35,7 @@
 - [Criar uma conta no site do NGROK](#-criar-uma-conta-no-site-do-ngrok)
 - [Comandos para configurações automáticas](#-configurações-automáticas)
 - [Sequência de execução do scripts](#-sequencia-de-execucao-do-scripts)
-- [Referências](#-referências)
+- [Referencias](#-referencias)
 - [Autor](#-autor)
 
 
@@ -113,7 +113,7 @@ OBS: O script **`hello.py`** precisa ser o ultimo a rodar pois ele vai enviar o 
 `sudo usb_modeswitch -c /etc/usb_modeswitch.conf `
 <br><br>
 
-## Referências
+## Referencias
 
 [https://www.thefanclub.co.za/how-to/how-setup-usb-3g-modem-raspberry-pi-using-usbmodeswitch-and-wvdial](https://www.thefanclub.co.za/how-to/how-setup-usb-3g-modem-raspberry-pi-using-usbmodeswitch-and-wvdial)
 
