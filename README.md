@@ -86,3 +86,8 @@ OBS: O script **`hello.py`** precisa ser o ultimo a rodar pois ele vai enviar o 
 Curso raspberry Pi:
 
 [https://www.youtube.com/watch?v=X7WMSfEfZGg&list=PLHz_AreHm4dnGZ_nudmN4rvyLk2fHFRzy](https://www.youtube.com/watch?v=X7WMSfEfZGg&list=PLHz_AreHm4dnGZ_nudmN4rvyLk2fHFRzy)
+
+
+## 📕 Autor
+
+[Wagner Sobreira](https://www.linkedin.com/in/wagner-sobreira-395b66167/)
