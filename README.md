@@ -1,5 +1,7 @@
 # Raspberry PI 3 + DHT11
 
+<br>
+
 
 ### Requisitos Extras :
 
@@ -9,6 +11,7 @@
 - Resistor de 10k
 - Modem Dwm 221  
 - Sistema operacional:  Raspberry Pi OS (32-bit) with desktop and recommended software  
+<br>
   
   
 <img src="/image/dht11circuit.png">
@@ -94,6 +97,7 @@ Curso raspberry Pi:
 [https://www.youtube.com/watch?v=X7WMSfEfZGg&list=PLHz_AreHm4dnGZ_nudmN4rvyLk2fHFRzy](https://www.youtube.com/watch?v=X7WMSfEfZGg&list=PLHz_AreHm4dnGZ_nudmN4rvyLk2fHFRzy)
 
 <br>
-## 📕 Autor
+
+##  📕 Autor
 
 [Wagner Sobreira](https://www.linkedin.com/in/wagner-sobreira-395b66167/)
