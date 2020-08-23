@@ -32,9 +32,9 @@
 
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Executar esse projeto no seu computador raspberry Pi 3](#-executar-esse-projeto-no-seu-computador-raspberry-pi-3)
-- [Criar uma conta no site do NGROK](#-criar-uma-conta-no-site-do-NGROK)
+- [Criar uma conta no site do NGROK](#-criar-uma-conta-no-site-do-[NGROK])
 - [Comandos para configurações automáticas](#-comandos-para-configurações-automáticas)
-- [Sequência de execução do scripts](#-sequência-de-execução-do-scripts)
+- [Sequência de execução do scripts](#-sequencia-de-execucao-do-scripts)
 - [Referências](#-referências)
 - [Autor](#-autor)
 
@@ -63,7 +63,7 @@
 
 <br>
 
-### Criar uma conta no site do [NGROK](https://ngrok.com/)
+## Criar uma conta no site do [NGROK](https://ngrok.com/)
 
 1. *Baixar o ngrok para o seu raspberry*
 
@@ -73,7 +73,7 @@
 
 <br><br>
 
-### Comandos para configurações automáticas
+## configurações automáticas
 
 `mkdir $HOME/www/`
 
@@ -111,7 +111,7 @@ OBS: O script **`hello.py`** precisa ser o ultimo a rodar pois ele vai enviar o 
 `sudo usb_modeswitch -c /etc/usb_modeswitch.conf `
 <br><br>
 
-# Referências :
+## Referências :
 
 [https://www.thefanclub.co.za/how-to/how-setup-usb-3g-modem-raspberry-pi-using-usbmodeswitch-and-wvdial](https://www.thefanclub.co.za/how-to/how-setup-usb-3g-modem-raspberry-pi-using-usbmodeswitch-and-wvdial)
 
