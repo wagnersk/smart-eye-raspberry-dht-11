@@ -27,6 +27,21 @@
 <br>
 
 
+
+## 📑 Índice
+
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [Executar esse projeto no seu computador raspberry Pi 3](#-executar-esse-projeto-no-seu-computador-raspberry-pi-3)
+- [Criar uma conta no site do NGROK](#-criar-uma-conta-no-site-do-NGROK)
+- [Comandos para configurações automáticas](#-comandos-para-configurações-automáticas)
+- [Sequência de execução do scripts](#-sequência-de-execução-do-scripts)
+- [Referências](#-referências)
+- [Autor](#-autor)
+
+
+<br><br>
+
+
 ## 🚀 Tecnologias utilizadas
 
 - Python
@@ -58,7 +73,7 @@
 
 <br><br>
 
-### Use os comandos
+### Comandos para configurações automáticas
 
 `mkdir $HOME/www/`
 
