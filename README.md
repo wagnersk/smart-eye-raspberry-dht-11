@@ -49,7 +49,7 @@
 - [Configurações automáticas](#-configurações-automáticas)
 - [Sequência de execução dos scripts](#-sequência-de-execução-dos-scripts)
 - [Referências](#-referências)
-- [Autor](#-autor)
+- [Autor](#%EF%B8%8F-autor)
 
 
 <br><br>
