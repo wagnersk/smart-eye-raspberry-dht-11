@@ -9,8 +9,8 @@
 - *Protoboard*
 - *4 cabos flats*
 - *Resistor de 10k*
-- *Modem Dwm 221  *
-- *Sistema operacional:  Raspberry Pi OS (32-bit) with desktop and recommended software  *
+- *Modem Dwm 221*
+- *Sistema operacional:  Raspberry Pi OS (32-bit) with desktop and recommended software*
 <br>
   
   
@@ -55,9 +55,11 @@
 
 ## 💡 Sobre o Projeto
 
+<br>
+
 ***Smart Eye _making your life easier._***
 
-<br><br>
+<br>
 
 > É um projeto para monitoramento prático de ambientes com temperatura controlada.<br>
 Este repositório refere-se a parte back-end do raspberry com um sensor DHT-11 para medição de temperatur e umidade.
