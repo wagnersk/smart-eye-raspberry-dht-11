@@ -3,7 +3,7 @@
 <br>
 
 
-### ⚠️ Requisitos Extras :
+### ⚠️  Requisitos Extras :
 
 - Sensor DHT11 de 4 pinos
 - Protoboard
