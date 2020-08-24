@@ -4,7 +4,7 @@
 
 <br>
 
- Por [Wagner Sobreira](https://www.linkedin.com/in/wagner-sobreira-395b66167/)
+*O projeto Smart-eye foi desenvolvido por* **[Wagner Sobreira](https://www.linkedin.com/in/wagner-sobreira-395b66167/)**
 
 <br>
 
