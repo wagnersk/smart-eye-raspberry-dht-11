@@ -89,9 +89,9 @@
 
 `sudo pip3 install Adafruit_DHT`  
 
-<br>
+<br><br>
 
-## :heavy_check_mark: Como incluir o ngrok em seu projeto para gerar um dns fixo
+## :grey_exclamation: Como incluir o ngrok em seu projeto para gerar um dns fixo
 
 1. [Clique Aqui](https://ngrok.com/) para criar uma conta no site do ngrok
 
