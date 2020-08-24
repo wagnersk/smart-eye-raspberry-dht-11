@@ -9,9 +9,9 @@
 <br>
 
 
-💻 Acesse a [API-Heroku ](https://github.com/wagnersk/smart-eye-api-heroku)** | 
-🖥  *Você está em Projeto Raspberry* |
-📱 Acesse o [Mobile](https://github.com/wagnersk/smart-eye-mobile) |
+💻 **Acesse a [API-Heroku](https://github.com/wagnersk/smart-eye-api-heroku)** | 
+🖥  Você está em *Projeto Raspberry* |
+📱 **Acesse o [Mobile](https://github.com/wagnersk/smart-eye-mobile)** |
 
 <br>
 
