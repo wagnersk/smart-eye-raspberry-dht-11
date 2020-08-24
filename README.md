@@ -34,8 +34,8 @@
 - [Executar esse projeto no seu computador raspberry Pi 3](#-executar-esse-projeto-no-seu-computador-raspberry-pi-3)
 - [Criar uma conta no site do ngrok](#-criar-uma-conta-no-site-do-ngrok)
 - [Configurações automáticas](#-configurações-automáticas)
-- [Sequência de execução dos scripts](#-sequencia-de-execução-dos-scripts)
-- [Referencias](#-referencias)
+- [Sequência de execução dos scripts](#-sequência-de-execução-dos-scripts)
+- [Referencias](#-referências)
 - [Autor](#-autor)
 
 
