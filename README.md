@@ -47,7 +47,7 @@
 - [Executar esse projeto no seu computador raspberry Pi 3](#-como-executar-esse-projeto-no-seu-raspberry-pi-3)
 - [Como incluir o ngrok em seu projeto para gerar um dns fixo](#EF%B8%8F-como-incluir-o-ngrok-em-seu-projeto-para-gerar-um-dns-fixo)
 - [Configurações automáticas](#EF%B8%8F-configurações-automáticas)
-- [Sequência de execução dos scripts](#EF%B8%8F-sequência-de-execução-dos-scripts)
+- [Sequência de execução dos scripts](#EF%B8%8F-sequ%C3%AAncia-de-execu%C3%A7%C3%A3o-dos-scripts)
 - [Referências](#-referências)
 - [Autor](#%EF%B8%8F-autor)
 
