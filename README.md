@@ -1,6 +1,6 @@
 # SMART EYE - Raspberry Pi 3 + dht 11
 
-*Flask + sensor de temperatura e umidade*
+> Flask + sensor de temperatura e umidade
 
 <br>
 
