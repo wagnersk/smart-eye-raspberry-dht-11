@@ -57,7 +57,7 @@
 
 <br>
 
-***Smart Eye _making your life easier._***
+***SMART EYE  _making your life easier._***
 
 <br>
 
