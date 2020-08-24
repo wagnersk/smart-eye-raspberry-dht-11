@@ -30,9 +30,10 @@
 
 ## 📑 Índice
 
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Executar esse projeto no seu computador raspberry Pi 3](#-executar-esse-projeto-no-seu-computador-raspberry-pi-3)
-- [Criar uma conta no site do ngrok](#-criar-uma-conta-no-site-do-ngrok)
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)   Sobre o Projeto
+- [Sobre o Projeto](#-sobre-o-projeto)
+- [Executar esse projeto no seu computador raspberry Pi 3](#-como-executar-esse-projeto-no-seu-raspberry-pi-3)
+- [Como incluir o ngrok em seu projeto para gerar um dns fixo](#-como-incluir-o-ngrok-em-seu-projeto-para-gerar-um-dns-fixo)
 - [Configurações automáticas](#-configurações-automáticas)
 - [Sequência de execução dos scripts](#-sequência-de-execução-dos-scripts)
 - [Referencias](#-referências)
@@ -52,7 +53,15 @@
 <br><br>
 
 
-## 📥 Executar esse projeto no seu computador raspberry Pi 3
+## 💡 Sobre o Projeto
+
+Smart Eye, making your life easier. <br>
+É um projeto para monitoramento prático de ambientes com temperatura controlada.<br>
+Este repositório refere-se a parte back-end do raspberry com um sensor DHT-11 para medição de temperatur e umidade
+
+
+
+## 📥 Como executar esse projeto no seu raspberry Pi 3
 
 
 `sudo apt-get update `
@@ -63,9 +72,9 @@
 
 <br>
 
-## 📕 Criar uma conta no site do ngrok
+## 📕 Como incluir o ngrok em seu projeto para gerar um dns fixo
 
-1. [Clique Aqui](https://ngrok.com/)
+1. [Clique Aqui](https://ngrok.com/) para criar uma conta no site do ngrok
 
 2. *Baixe o ngrok para o seu raspberry*
 
