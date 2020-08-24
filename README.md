@@ -19,7 +19,7 @@
 
 - *Sensor DHT11 de 4 pinos*
 - *Protoboard*
-- *4 cabos flats*
+- *3 cabos flats*
 - *Resistor de 10k*
 - *Modem Dwm 221*
 - *Sistema operacional:  Raspberry Pi OS (32-bit) with desktop and recommended software*
@@ -45,8 +45,8 @@
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Executar esse projeto no seu computador raspberry Pi 3](#-como-executar-esse-projeto-no-seu-raspberry-pi-3)
-- [Como incluir o ngrok em seu projeto para gerar um dns fixo](#EF%B8%8F-como-incluir-o-ngrok-em-seu-projeto-para-gerar-um-dns-fixo)
-- [Configurações automáticas](#EF%B8%8F-configurações-automáticas)
+- [Como incluir o ngrok em seu projeto para gerar um dns fixo](#-como-incluir-o-ngrok-em-seu-projeto-para-gerar-um-dns-fixo)
+- [Configurações automáticas](#-configuraçoes-automaticas)
 - [Sequência de execução dos scripts](#-sequecia-de-execuçao-dos-scripts)
 - [Referências](#-referências)
 - [Autor](#%EF%B8%8F-autor)
