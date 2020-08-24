@@ -18,7 +18,7 @@ def enviar():
         if data.status_code==200:
             json = data.json()
             public_url = json['tunnels'][0]['public_url']
-            payload={'url':public_url,'verify':'123456'} #trocar 123456 pela senha que a rota post do backend heroku espera para 'autenticar'
+            payload={'url':public_url,'verify':'senha123'} #trocar senha pela senha que a rota post do backend heroku espera para 'autenticar' , precisa ser igual a senha que está dentor do .env na api-heroku
             r=requests.put('https://backend-sensor.herokuapp.com',json=payload) #Endereço do backend nodejs heroku
         
         
