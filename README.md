@@ -44,7 +44,7 @@
 
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Sobre o Projeto](#-sobre-o-projeto)
-- [Executar esse projeto no seu computador raspberry Pi 3](#-como-executar-esse-projeto-no-seu-raspberry-pi-3)
+- [Como executar esse projeto no seu computador raspberry Pi 3](#-como-executar-esse-projeto-no-seu-raspberry-pi-3)
 - [Como incluir o ngrok em seu projeto para gerar um dns fixo](#grey_exclamation-como-incluir-o-ngrok-em-seu-projeto-para-gerar-um-dns-fixo)
 - [Configurações automáticas](#runner-configurações-automáticas)
 - [Sequência de execução dos scripts](#heavy_check_mark-sequência-de-execução-dos-scripts)
