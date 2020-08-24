@@ -62,7 +62,7 @@
 <br>
 
 > É um projeto para monitoramento prático de ambientes com temperatura controlada.<br>
-Este repositório refere-se a parte back-end do raspberry com um sensor DHT-11 para medição de temperatur e umidade.
+Este repositório não tem fins lucrativos , apenas refere-se a parte back-end do raspberry com um sensor DHT-11 para medição de temperatura e umidade.
 
 <br><br>
 
