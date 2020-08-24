@@ -4,13 +4,15 @@
 
 <br>
 
-
  Por [Wagner Sobreira](https://www.linkedin.com/in/wagner-sobreira-395b66167/)
- 
-
 
 <br>
 
+💻 **Acesse o Back-end-api** | [aqui](https://github.com/wagnersk/smart-eye-api-heroku)** | 
+🖥 *Você está no* **Back-end-raspberry** [aqui](https://github.com/wagnersk/smart-eye-raspberry-dht-11)** | 
+📱 **Acesse o Mobile [aqui](https://github.com/wagnersk/smart-eye-mobile)** |
+
+<br>
 
 ### ⚠️  Requisitos Extras :
 
