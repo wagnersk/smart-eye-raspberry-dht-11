@@ -3,7 +3,7 @@
 <br>
 
 
-### Requisitos Extras :
+### ⚠️ Requisitos Extras :
 
 - Sensor DHT11 de 4 pinos
 - Protoboard
@@ -72,7 +72,7 @@ Este repositório refere-se a parte back-end do raspberry com um sensor DHT-11 p
 
 <br>
 
-## 📕 Como incluir o ngrok em seu projeto para gerar um dns fixo
+## ✅️ Como incluir o ngrok em seu projeto para gerar um dns fixo
 
 1. [Clique Aqui](https://ngrok.com/) para criar uma conta no site do ngrok
 
@@ -84,7 +84,7 @@ Este repositório refere-se a parte back-end do raspberry com um sensor DHT-11 p
 
 <br><br>
 
-## 📕 Configurações automáticas
+## 🤔️ Configurações automáticas
 
 `mkdir $HOME/www/`
 
@@ -102,7 +102,7 @@ Este repositório refere-se a parte back-end do raspberry com um sensor DHT-11 p
 
 <br>
 
-## 📕 Sequência de execução dos scripts
+## ✅️ Sequência de execução dos scripts
 
 **1-`ligarmoden`** 
 
@@ -134,6 +134,6 @@ Curso raspberry Pi:
 
 <br>
 
-## 📕 Autor
+## 😎️ Autor
 
 [Wagner Sobreira](https://www.linkedin.com/in/wagner-sobreira-395b66167/)
