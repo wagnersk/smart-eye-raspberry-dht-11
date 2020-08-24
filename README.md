@@ -30,13 +30,13 @@
 
 ## 📑 Índice
 
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)   Sobre o Projeto
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Executar esse projeto no seu computador raspberry Pi 3](#-como-executar-esse-projeto-no-seu-raspberry-pi-3)
 - [Como incluir o ngrok em seu projeto para gerar um dns fixo](#-como-incluir-o-ngrok-em-seu-projeto-para-gerar-um-dns-fixo)
 - [Configurações automáticas](#-configurações-automáticas)
 - [Sequência de execução dos scripts](#-sequência-de-execução-dos-scripts)
-- [Referencias](#-referências)
+- [Referências](#-referências)
 - [Autor](#-autor)
 
 
