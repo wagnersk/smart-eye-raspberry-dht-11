@@ -1,4 +1,7 @@
-# Raspberry Pi 3 + dht 11
+# SMART EYE - Raspberry Pi 3 + dht 11
+
+*Flask + sensor de temperatura e umidade*
+
 
 <br>
 
@@ -14,7 +17,7 @@
 <br>
   
   
-<img src="/image/dht11circuit.png">
+<img src="/image/dht11circuit.png" >
 
 
                                              fonte: www.circuitbasics.com
