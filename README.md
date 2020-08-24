@@ -1,4 +1,4 @@
-# Raspberry PI 3 + DHT11
+# Raspberry Pi 3 + dht 11
 
 <br>
 
@@ -57,7 +57,7 @@
 
 <br>
 
-***SMART EYE  _making your life easier._***
+**SMART EYE  _making your life easier._**
 
 <br>
 
